@@ -7,7 +7,7 @@ past 7 years, I was working as an Android developer on various high-quality busi
 
 I am familiar with the entire mobile application process and understand that it takes more than just programming knowledge to create a definitive, high-functioning application; it takes user-engagement, creative intuition, memory management and an overall familiarity with what approaches are available to use.
 
-With technology constantly changing, new software products popping up everyday - staying focused when developing a new solution can be a challange. It takes user-engagement, creative intuition, memory management and an overall familiarity with what approaches are available to use. Using the MVP(Minimum Viable Product) approach ,I can turn your ideas into reality and get your product to market quickly and effectively.
+With technology constantly changing, new software products popping up everyday - staying focused when developing a new solution can be a challange. It takes user-engagement, creative intuition, memory management and an overall familiarity with what approaches are available to use.
 
 My experience has shown that short, user-tested development cycles are a key ingredient in creating innovative products.A focused process makes it easier to integrate client and customer feedback and allows us to quickly course correct and build on new information. I place the highest importance in communication with my clients as this is one of the key determinants of a successful project.
 </p>
