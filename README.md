@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mende</h1>
 <h3 align="center">A passionate Android developer</h3>
 
