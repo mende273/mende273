@@ -4,12 +4,6 @@
 <p align="left">
 I’m a software engineer specialized in Android development. Over the
 past 7 years, I was working as an Android developer on various high-quality business-oriented Android projects for clients like T-Mobile, Tesco, Cosmote, ReadyEducation, Rumble. This allowed me to understand my clients vision, mission and target audience, it's marketing strategies and implement it into wonderful and efficient products.
-
-I am familiar with the entire mobile application process and understand that it takes more than just programming knowledge to create a definitive, high-functioning application; it takes user-engagement, creative intuition, memory management and an overall familiarity with what approaches are available to use.
-
-With technology constantly changing, new software products popping up everyday - staying focused when developing a new solution can be a challange. It takes user-engagement, creative intuition, memory management and an overall familiarity with what approaches are available to use.
-
-My experience has shown that short, user-tested development cycles are a key ingredient in creating innovative products.A focused process makes it easier to integrate client and customer feedback and allows us to quickly course correct and build on new information. I place the highest importance in communication with my clients as this is one of the key determinants of a successful project.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
