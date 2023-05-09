@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mende</h1>
-<h3 align="center">A passionate Android developer</h3>
 
 <p align="left">
 I’m a software engineer specialized in Android development. Over the
-past 7 years, I was working as an Android developer on various high-quality business-oriented Android projects for different clients. This allowed me to understand my clients vision, mission and target audience, it's marketing strategies and implement it into wonderful and efficient products.
+past 7 years, I was working as an Android developer on various high-quality business-oriented Android projects.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
