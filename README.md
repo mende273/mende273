@@ -2,7 +2,7 @@
 
 <p align="left">
 I’m a software engineer specialized in Android development. Over the
-past 7 years, I was working on various high-quality business-oriented Android projects.
+past 9 years, I was working on various high-quality business-oriented Android projects.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
