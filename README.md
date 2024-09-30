@@ -1,4 +1,15 @@
-#### Android developer with 10+ years of experience building apps that help businesses and make users happy.
+```diff
+
+class AboutMe {
+    val firstName = "Mende"
+    val lastName = "Jumrukovski"
+    val linkedin = "www.linkedin.com/in/jumrukovski"
+-   val yearsOfExperience = 9
++   val yearsOfExperience = 10
+    val role = "Android Engineer"
+}
+
+```
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
