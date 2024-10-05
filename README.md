@@ -20,3 +20,4 @@ class AboutMe {
 ![Hasura](https://img.shields.io/badge/hasura-1EB4D4?logo=hasura&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?logo=ktor&logoColor=white&style=for-the-badge)
